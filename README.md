@@ -1,4 +1,24 @@
 # GoFinances
+
+
+<p align="center">
+ <a>
+  <img src="https://img.shields.io/github/last-commit/niltoneapontes/gofinances" alt="Last commit badge" />
+ </a>
+ <a>
+  <img src="https://img.shields.io/github/languages/count/niltoneapontes/gofinances" alt="Languages badge" />
+ </a>
+ <a>
+  <img src="https://img.shields.io/github/languages/code-size/niltoneapontes/gofinances" alt="Code size in bytes" />
+ </a>
+ <a>
+  <img src="https://img.shields.io/github/stars/niltoneapontes/gofinances?style=social" alt="Github repo stars" />
+ </a>
+ <a>
+  <img src="https://img.shields.io/github/followers/niltoneapontes?style=social" alt="Github followers" />
+ </a>
+</p>
+
 💰 GoFinances, uma aplicação web fictícia para gestão financeira desenvolvido durante o bootcamp GoStack da @Rocketseat.🚀
 
 Utilizamos ferramentas como Multer e react-hooks para construir a aplicação em ReactJS. Além da página inicial, a aplicação possui uma página de importação de transações.
