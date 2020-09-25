@@ -15,8 +15,9 @@ Para utilizar esta aplicação em sua máquina, deve-se possuir o node.js e o gi
 
 # Screenshots da aplicação
 
-![Tela de listagem](https://imgur.com/TRmgUFV.png)
+![Tela inicial](https://github.com/niltoneapontes/gofinances/blob/master/Capa.png)
 ---
+![Tela de importação](https://github.com/niltoneapontes/gofinances/blob/master/Importar.png)
 
 # Post no LinkedIn
 
