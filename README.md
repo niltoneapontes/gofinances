@@ -15,7 +15,7 @@ Para utilizar esta aplicação em sua máquina, deve-se possuir o node.js e o gi
 
 # Screenshots da aplicação
 
-[Tela de listagem](https://imgur.com/TRmgUFV.png)
+![Tela de listagem](https://imgur.com/TRmgUFV.png)
 ---
 
 # Post no LinkedIn
